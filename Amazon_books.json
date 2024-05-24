@@ -1,0 +1,247 @@
+[
+  {
+    "Author": {
+      "first_name": "George",
+      "last_name": "Orwell",
+      "nationality": "British",
+      "biography": "George Orwell was an English novelist, essayist, and critic most famous for his novels 'Animal Farm' (1945) and 'Nineteen Eighty-Four' (1949).",
+      "website": "https://www.georgeorwell.org",
+      "birth_date": "1903-06-25"
+    },
+    "name": "1984",
+    "Series": {
+      "name": "N/A",
+      "description": "N/A"
+    },
+    "genre": {
+      "name": "Dystopian",
+      "description": "A genre of speculative fiction exploring social and political structures in a dark, nightmare world."
+    },
+    "year_published": 1949,
+    "ISBN": "9780451524935",
+    "pageCount": 328,
+    "format": "Paperback",
+    "edition": "1st",
+    "publication_date": "1949-06-08",
+    "language": ["English"],
+    "weight": 0.2,
+    "Events": [
+      {
+        "name": "Book Launch",
+        "date": "1949-06-08",
+        "description": "The book '1984' was launched."
+      },
+      {
+        "name": "10th Anniversary",
+        "date": "1959-06-08",
+        "description": "The 10th anniversary of the book '1984'."
+      }
+    ],
+    "Awards": [
+      {
+        "name": "Best Dystopian Novel",
+        "date": "1950-01-01",
+        "organization": "Fiction Awards"
+      }
+    ],
+    "publisher": {
+      "name": "Secker & Warburg",
+      "founder": "Roger Senhouse",
+      "website": "https://www.seckerwarburg.com",
+      "address": {
+        "street": "20 Vauxhall Bridge Rd",
+        "postal_code": "SW1V 2SA",
+        "city": "London",
+        "country": "United Kingdom",
+        "state": "England"
+      }
+    },
+    "reviews": [
+      {
+        "user": {
+          "first_name": "John",
+          "last_name": "Doe",
+          "birth_date": "1990-01-01",
+          "gender": "Male",
+          "age": 34,
+          "email": "johndoe@example.com",
+          "address": {
+            "street": "123 Main St",
+            "postal_code": "12345",
+            "city": "Anytown",
+            "country": "USA",
+            "state": "CA"
+          }
+        },
+        "rating": 4.5,
+        "text": "A thought-provoking novel that still resonates today.",
+        "date": "2024-05-13"
+      }
+    ]
+  },
+  {
+    "Author": {
+      "first_name": "J.K.",
+      "last_name": "Rowling",
+      "nationality": "British",
+      "biography": "J.K. Rowling is a British author, philanthropist, film producer, television producer, and screenwriter. She is best known for writing the Harry Potter fantasy series.",
+      "website": "https://www.jkrowling.com",
+      "birth_date": "1965-07-31"
+    },
+    "name": "Harry Potter and the Philosopher's Stone",
+    "Series": {
+      "name": "Harry Potter",
+      "description": "The Harry Potter series is a seven-part series of fantasy novels written by British author J.K. Rowling. The series chronicles the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry."
+    },
+    "genre": {
+      "name": "Fantasy",
+      "description": "Fantasy is a genre of speculative fiction set in a fictional universe, often inspired by real world myth and folklore."
+    },
+    "year_published": 1997,
+    "ISBN": "9780747532699",
+    "pageCount": 223,
+    "format": "Hardcover",
+    "edition": "1st",
+    "publication_date": "1997-06-26",
+    "language": ["English"],
+    "weight": 0.3,
+    "Events": [
+      {
+        "name": "Book Launch",
+        "date": "1997-06-26",
+        "description": "The book 'Harry Potter and the Philosopher's Stone' was launched."
+      },
+      {
+        "name": "20th Anniversary",
+        "date": "2017-06-26",
+        "description": "The 20th anniversary of the book 'Harry Potter and the Philosopher's Stone'."
+      }
+    ],
+    "Awards": [
+      {
+        "name": "Nestlé Smarties Book Prize",
+        "date": "1997-01-01",
+        "organization": "Booktrust"
+      },
+      {
+        "name": "British Book Award for Children's Book of the Year",
+        "date": "1998-01-01",
+        "organization": "British Book Awards"
+      }
+    ],
+    "publisher": {
+      "name": "Bloomsbury Publishing",
+      "founder": "Nigel Newton",
+      "website": "https://www.bloomsbury.com",
+      "address": {
+        "street": "50 Bedford Square",
+        "postal_code": "WC1B 3DP",
+        "city": "London",
+        "country": "United Kingdom",
+        "state": "England"
+      }
+    },
+    "reviews": [
+      {
+        "user": {
+          "first_name": "Jane",
+          "last_name": "Doe",
+          "birth_date": "1990-01-01",
+          "gender": "Female",
+          "age": 34,
+          "email": "janedoe@example.com",
+          "address": {
+            "street": "123 Main St",
+            "postal_code": "12345",
+            "city": "Anytown",
+            "country": "USA",
+            "state": "CA"
+          }
+        },
+        "rating": 5.0,
+        "text": "A magical journey that ignited my love for reading.",
+        "date": "2024-05-13"
+      }
+    ]
+  },
+  {
+    "Author": {
+      "first_name": "Harper",
+      "last_name": "Lee",
+      "nationality": "American",
+      "biography": "Harper Lee was an American novelist best known for her 1960 novel 'To Kill a Mockingbird'. It won the 1961 Pulitzer Prize and has become a classic of modern American literature.",
+      "website": "N/A",
+      "birth_date": "1926-04-28"
+    },
+    "name": "To Kill a Mockingbird",
+    "Series": {
+      "name": "N/A",
+      "description": "N/A"
+    },
+    "genre": {
+      "name": "Southern Gothic, Bildungsroman",
+      "description": "Southern Gothic is a subgenre of Gothic fiction in American literature that takes place in the American South. Bildungsroman is a literary genre that focuses on the psychological and moral growth of the protagonist from youth to adulthood."
+    },
+    "year_published": 1960,
+    "ISBN": "9780446310789",
+    "pageCount": 324,
+    "format": "Paperback",
+    "edition": "1st",
+    "publication_date": "1960-07-11",
+    "language": ["English"],
+    "weight": 0.2,
+    "Events": [
+      {
+        "name": "Book Launch",
+        "date": "1960-07-11",
+        "description": "The book 'To Kill a Mockingbird' was launched."
+      },
+      {
+        "name": "50th Anniversary",
+        "date": "2010-07-11",
+        "description": "The 50th anniversary of the book 'To Kill a Mockingbird'."
+      }
+    ],
+    "Awards": [
+      {
+        "name": "Pulitzer Prize for Fiction",
+        "date": "1961-01-01",
+        "organization": "Columbia University"
+      }
+    ],
+    "publisher": {
+      "name": "J. B. Lippincott & Co.",
+      "founder": "Joshua Ballinger Lippincott",
+      "website": "N/A",
+      "address": {
+        "street": "East Washington Square",
+        "postal_code": "19105",
+        "city": "Philadelphia",
+        "country": "United States",
+        "state": "Pennsylvania"
+      }
+    },
+    "reviews": [
+      {
+        "user": {
+          "first_name": "Alex",
+          "last_name": "Smith",
+          "birth_date": "1990-01-01",
+          "gender": "Male",
+          "age": 34,
+          "email": "alexsmith@example.com",
+          "address": {
+            "street": "123 Main St",
+            "postal_code": "12345",
+            "city": "Anytown",
+            "country": "USA",
+            "state": "CA"
+          }
+        },
+        "rating": 4.8,
+        "text": "A timeless classic that explores the irrationality of adult attitudes towards race and class in the Deep South.",
+        "date": "2024-05-13"
+      }
+    ]
+  }
+]
