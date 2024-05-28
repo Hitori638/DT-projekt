@@ -1,22 +1,26 @@
 [
   {
-    "Author": {
-      "first_name": "George",
-      "last_name": "Orwell",
-      "nationality": "British",
-      "biography": "George Orwell was an English novelist, essayist, and critic most famous for his novels 'Animal Farm' (1945) and 'Nineteen Eighty-Four' (1949).",
-      "website": "https://www.georgeorwell.org",
-      "birth_date": "1903-06-25"
-    },
+    "Authors": [
+      {
+        "first_name": "George",
+        "last_name": "Orwell",
+        "nationality": "British",
+        "biography": "George Orwell was an English novelist, essayist, and critic most famous for his novels 'Animal Farm' (1945) and 'Nineteen Eighty-Four' (1949).",
+        "website": "https://www.georgeorwell.org",
+        "birth_date": "1903-06-25"
+      }
+    ],
     "name": "1984",
     "Series": {
       "name": "N/A",
       "description": "N/A"
     },
-    "genre": {
-      "name": "Dystopian",
-      "description": "A genre of speculative fiction exploring social and political structures in a dark, nightmare world."
-    },
+    "genres": [
+      {
+        "name": "Dystopian",
+        "description": "A genre of speculative fiction exploring social and political structures in a dark, nightmare world."
+      }
+    ],
     "year_published": 1949,
     "ISBN": "9780451524935",
     "pageCount": 328,
@@ -80,23 +84,27 @@
     ]
   },
   {
-    "Author": {
-      "first_name": "J.K.",
-      "last_name": "Rowling",
-      "nationality": "British",
-      "biography": "J.K. Rowling is a British author, philanthropist, film producer, television producer, and screenwriter. She is best known for writing the Harry Potter fantasy series.",
-      "website": "https://www.jkrowling.com",
-      "birth_date": "1965-07-31"
-    },
+    "Authors": [
+      {
+        "first_name": "J.K.",
+        "last_name": "Rowling",
+        "nationality": "British",
+        "biography": "J.K. Rowling is a British author, philanthropist, film producer, television producer, and screenwriter. She is best known for writing the Harry Potter fantasy series.",
+        "website": "https://www.jkrowling.com",
+        "birth_date": "1965-07-31"
+      }
+    ],
     "name": "Harry Potter and the Philosopher's Stone",
     "Series": {
       "name": "Harry Potter",
       "description": "The Harry Potter series is a seven-part series of fantasy novels written by British author J.K. Rowling. The series chronicles the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry."
     },
-    "genre": {
-      "name": "Fantasy",
-      "description": "Fantasy is a genre of speculative fiction set in a fictional universe, often inspired by real world myth and folklore."
-    },
+    "genres": [
+      {
+        "name": "Fantasy",
+        "description": "Fantasy is a genre of speculative fiction set in a fictional universe, often inspired by real world myth and folklore."
+      }
+    ],
     "year_published": 1997,
     "ISBN": "9780747532699",
     "pageCount": 223,
@@ -165,23 +173,31 @@
     ]
   },
   {
-    "Author": {
-      "first_name": "Harper",
-      "last_name": "Lee",
-      "nationality": "American",
-      "biography": "Harper Lee was an American novelist best known for her 1960 novel 'To Kill a Mockingbird'. It won the 1961 Pulitzer Prize and has become a classic of modern American literature.",
-      "website": "N/A",
-      "birth_date": "1926-04-28"
-    },
+    "Authors": [
+      {
+        "first_name": "Harper",
+        "last_name": "Lee",
+        "nationality": "American",
+        "biography": "Harper Lee was an American novelist best known for her 1960 novel 'To Kill a Mockingbird'. It won the 1961 Pulitzer Prize and has become a classic of modern American literature.",
+        "website": "N/A",
+        "birth_date": "1926-04-28"
+      }
+    ],
     "name": "To Kill a Mockingbird",
     "Series": {
       "name": "N/A",
       "description": "N/A"
     },
-    "genre": {
-      "name": "Southern Gothic, Bildungsroman",
-      "description": "Southern Gothic is a subgenre of Gothic fiction in American literature that takes place in the American South. Bildungsroman is a literary genre that focuses on the psychological and moral growth of the protagonist from youth to adulthood."
-    },
+    "genres": [
+      {
+        "name": "Southern Gothic",
+        "description": "Southern Gothic is a subgenre of Gothic fiction in American literature that takes place in the American South."
+      },
+      {
+        "name": "Bildungsroman",
+        "description": "Bildungsroman is a literary genre that focuses on the psychological and moral growth of the protagonist from youth to adulthood."
+      }
+    ],
     "year_published": 1960,
     "ISBN": "9780446310789",
     "pageCount": 324,
